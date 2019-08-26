@@ -1,4 +1,4 @@
-# tfbinding, files for TF-binding with uniform bin width
+# Files for TF-binding with uniform bin width
 
 ## original kipoi 100bp scoring bins
 
